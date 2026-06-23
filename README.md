@@ -29,7 +29,6 @@ To develop a Business Intelligence dashboard that enables stakeholders to monito
 
 ## 🚀 Dashboard Preview
 
-## 🚀 Dashboard Preview
 
 <p align="center">
   <img src="images/dashboard.png" width="1000">
